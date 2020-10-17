@@ -1,0 +1,10 @@
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\validaciones\validaciones\bin\Debug\validaciones.exe.config
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\validaciones\validaciones\bin\Debug\validaciones.exe
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\validaciones\validaciones\bin\Debug\validaciones.pdb
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\validaciones\validaciones\obj\Debug\validaciones.csprojAssemblyReference.cache
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\validaciones\validaciones\obj\Debug\validaciones.Form1.resources
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\validaciones\validaciones\obj\Debug\validaciones.Properties.Resources.resources
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\validaciones\validaciones\obj\Debug\validaciones.csproj.GenerateResource.cache
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\validaciones\validaciones\obj\Debug\validaciones.csproj.CoreCompileInputs.cache
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\validaciones\validaciones\obj\Debug\validaciones.exe
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\validaciones\validaciones\obj\Debug\validaciones.pdb
